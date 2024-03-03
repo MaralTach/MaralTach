@@ -22,7 +22,6 @@
   Project Name       |Libraries and Technologies      |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [To Do List](https://maraltach.github.io/newToDolist/)| HTML5, CSS3, JavaScript  |![blog app](https://github.com/MaralTach/newToDolist/blob/main/img/todoList.gif)
-
 [Product Info](https://maraltach.github.io/ASS4-task/)| HTML5, CSS3 (Responsive) |![blog app](https://github.com/MaralTach/ASS4-task/blob/main/img/macRespons.gif)
 
 
