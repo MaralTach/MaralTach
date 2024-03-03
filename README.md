@@ -23,6 +23,7 @@
 :-------------------------|-------------------------|-------------------------
 [To Do List](https://maraltach.github.io/newToDolist/)| HTML5, CSS3, JavaScript  |![blog app](https://github.com/MaralTach/newToDolist/blob/main/img/todoList.gif)
 
+[Product Info](https://maraltach.github.io/ASS4-task/)| HTML5, CSS3 (Responsive) |![blog app](https://github.com/MaralTach/ASS4-task/blob/main/img/macRespons.gif)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maraltach&show_icons=true&locale=en&layout=compact" alt="maraltach" /></p>
