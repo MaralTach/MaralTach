@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, $${\color{blue}I'm \space \color{orange}\color{blue}Akmaral}$$</h1>
+<h1 align="center">Hi 👋, $${\color{blue}I'm \space \color{orange}Akmaral}$$</h1>
 <h3 align="center">Jr.Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maraltach&label=Profile%20views&color=0e75b6&style=flat" alt="maraltach" /> </p>
