@@ -1,5 +1,5 @@
 <h1 align="center">  $${\color{green} Hi \space 👋, \space \color{blue}  I'm \space \color{green}Maral}$$</h1>
-<h3 align="center">Jr.Full Stack Developer</h3>
+<h3 align="center" &bg_color=DEG,red> Jr.Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maraltach&label=Profile%20views&color=0e75b6&style=flat" alt="maraltach" /> </p>
 
