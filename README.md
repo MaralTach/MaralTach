@@ -28,8 +28,9 @@
 :-------------------------|-------------------------|-------------------------
 [Country App](https://github.com/MaralTach/country-app/)| React, Bootstrap, Javascript (Responsive) |![blog app](https://github.com/MaralTach/country-app/blob/master/src/assets/Gifcountry.gif)
 [To Do List](https://maraltach.github.io/newToDolist/)| HTML5, CSS3, JavaScript  |![blog app](https://github.com/MaralTach/newToDolist/blob/main/img/todoList.gif)
+[Stop Watch App](https://github.com/MaralTach/stopWatch/)| HTML5, CSS3, Javascript |![blog app](https://github.com/MaralTach/stopWatch/blob/main/img/stopwatch.gif)
 [Product Info](https://maraltach.github.io/ASS4-task/)| HTML5, CSS3 (Responsive) |![blog app](https://github.com/MaralTach/ASS4-task/blob/main/img/macRespons.gif)
-[Stop Watch App](https://github.com/MaralTach/stopWatch/)| HTML5, CSS3, Javascrip |![blog app](https://github.com/MaralTach/stopWatch/blob/main/img/stopwatch.gif)
+
 
 
 
