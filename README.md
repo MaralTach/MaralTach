@@ -32,7 +32,6 @@
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -76,18 +75,17 @@
 <img width="40px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
 <img width="40px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
 <img width="40px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
-<img width="40px" alt="java" title="java" src="https://skillicons.dev/icons?i=java" />
 <img width="40px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
 <img width="40px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
 <img width="40px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
 <img width="40px" alt="django" title="django" src="https://skillicons.dev/icons?i=django" />
 <img width="40px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
 <img width="40px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
-<img width="40px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="40px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
 <img width="40px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
 <img width="40px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
 <img width="40px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+<img width="40px" alt="material ui" title="material ui" src="https://skillicons.dev/icons?i=materialui" />
 <br/>
 <img width="40px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
 <img width="40px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
@@ -109,12 +107,13 @@
 </div> 
 </br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maraltach&show_icons=true&locale=en&layout=compact" alt="maraltach" /></p>
+# 📊 GitHub Stats:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maraltach&show_icons=true&locale=en&layout=compact" alt="maraltach" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maraltach&show_icons=true&locale=en" alt="maraltach" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maraltach&" alt="maraltach" /></p>
+</br>
 
 ## My projects
   Project Name           |Libraries and Technologies      |How does my project look   
