@@ -14,8 +14,43 @@
 </p>
 
 
-<h1 align="center" >Languages and Tools:</h1>
-<p align="left"  > <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"  /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2 align="center">:rocket:Technical Skills</h2>
+<div align="center">
+<img width="40px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
+<img width="40px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
+<img width="40px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
+<img width="40px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+<img width="40px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
+<img width="40px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
+<img width="40px" alt="django" title="django" src="https://skillicons.dev/icons?i=django" />
+<img width="40px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
+<img width="40px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
+<img width="40px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
+<img width="40px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
+<img width="40px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
+<img width="40px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+<img width="40px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
+<img width="40px" alt="material ui" title="material ui" src="https://skillicons.dev/icons?i=materialui" />
+<br/>
+<img width="40px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
+<img width="40px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
+<img width="40px" alt="vite" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
+<img width="40px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
+<img width="40px" alt="postgresql" title="postgresql" src="https://skillicons.dev/icons?i=postgres" />
+<img width="40px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
+<img width="40px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
+<img width="40px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
+<img width="40px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
+<img width="40px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
+<img width="40px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
+<img width="40px" alt="blender" title="blender" src="https://skillicons.dev/icons?i=blender" />
+<img width="40px" alt="figma" title="figma" src="https://skillicons.dev/icons?i=figma" />
+<img width="40px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img width="40px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+</div>
+</br>
+<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
+<h2 align="center">My Projects</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maraltach&show_icons=true&locale=en&layout=compact" alt="maraltach" /></p>
 
