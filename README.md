@@ -4,7 +4,7 @@
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=color=A89568&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm Full+Stack+Developer;" alt="Typing SVG" /></a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maraltach&label=Profile%20views&color=0e75b6&style=flat" alt="maraltach" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maraltach&label=Profile%20views&color=0eb64f&style=flat" alt="maraltach" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaralTach](https://github.com/MaralTach)
 
