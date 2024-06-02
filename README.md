@@ -118,7 +118,7 @@
 ## My projects
   Project Name           |Libraries and Technologies      |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Hospital App](https://hospital-app-topaz.vercel.app/)| React, Bootstrap, Javascript |![blog app](https://github.com/MaralTach/hospital-app/blob/master/Hospital.gif)
+[Hospital App](https://hospital-app-topaz.vercel.app/)| React, Bootstrap, Javascript |![Appointment](https://github.com/MaralTach/hospital-app/blob/master/12-HD-720p.gif)
 [Country App](https://github.com/MaralTach/country-app/)| React, Bootstrap, Javascript (Responsive) |![blog app](https://github.com/MaralTach/country-app/blob/master/src/assets/Gifcountry.gif)
 [To Do List](https://maraltach.github.io/newToDolist/)| HTML5, CSS3, JavaScript  |![blog app](https://github.com/MaralTach/newToDolist/blob/main/img/todoList.gif)
 [Stop Watch App](https://github.com/MaralTach/stopWatch/)| HTML5, CSS3, Javascript |![blog app](https://github.com/MaralTach/stopWatch/blob/main/img/stopwatch.gif)
