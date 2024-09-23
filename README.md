@@ -106,11 +106,12 @@
 </br>
 
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maraltach&show_icons=true&locale=en&layout=compact" alt="maraltach" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maraltach&show_icons=true&locale=en&layout=compact" alt="maraltach" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maraltach&show_icons=true&locale=en" alt="maraltach" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maraltach&" alt="maraltach" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maraltach&show_icons=true&locale=en" alt="maraltach" /></p>
 </br>
 
 ## My projects
@@ -127,8 +128,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maraltach&show_icons=true&locale=en&layout=compact" alt="maraltach" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maraltach&show_icons=true&locale=en" alt="maraltach" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maraltach&" alt="maraltach" /></p>
