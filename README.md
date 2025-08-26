@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaralTach](https://github.com/MaralTach)
 
-- 📫 How to reach me **yoloten.maral@gamil.com**
+- 📫 How to reach me **yoloten.maral@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
